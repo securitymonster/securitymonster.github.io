@@ -10,4 +10,3 @@ image:
   creditlink: 
 ---
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
