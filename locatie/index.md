@@ -6,7 +6,7 @@ modified:
 excerpt:
 tags: []
 image:
-  feature: vanschaikweg.png
+  feature: vanschaikweg.jpg
   credit: SebM
   creditlink: 
 ---
