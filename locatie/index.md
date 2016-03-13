@@ -7,8 +7,8 @@ excerpt:
 tags: []
 image:
   feature: vanschaikweg.png
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  credit: SebM
+  creditlink: 
 ---
 
 {% include _toc.html %}
