@@ -1,16 +1,17 @@
 # Site navigation links
 
-- title: De Dissel
-  url: /dedissel/
+- title: Reünie 2016, The Party!
+  url: /reunie/
 
 - title: Locatie
   url: /locatie/
 
-- title: Docenten
-  url: /docenten/
-
 - title: Klassefotos
   url: /klassefotos/
 
-- title: Reünie 2016, The Party!
-  url: /reunie/
+- title: Over De Dissel
+  url: /dedissel/
+
+- title: Docenten
+  url: /docenten/
+
