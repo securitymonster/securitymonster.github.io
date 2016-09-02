@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Locatie waar de reünie zal plaatsvinden
+title: Locatie
 date: 2016-03-12T21:53:03+01:00
 modified:
 excerpt:
