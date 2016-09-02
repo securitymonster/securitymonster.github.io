@@ -13,5 +13,5 @@ image:
 
 {% include _toc.html %}
 
-Locatie nog te bepalen
+De reünie vindt plaats in het Hampshire hotel Emmen. Voor meer informatie kun je terrecht op de website van het hotel zelf: https://www.hampshirehotelemmen.com/contact
 
