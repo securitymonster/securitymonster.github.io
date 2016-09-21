@@ -10,3 +10,6 @@ image:
   feature:
 ---
 
+# Gastenboek
+
+Laat hier je comments achter :)
