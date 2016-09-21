@@ -8,7 +8,7 @@ tags: []
 image:
   feature:
  comments:
- 	provider: "facebook"
+ 	provider: facebook
 
 ---
 
