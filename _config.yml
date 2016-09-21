@@ -2,7 +2,8 @@
 
 title:            De Dissel Reünie 2016
 locale:           en_US
-url: http://dedisselreunie.nl             
+url:              http://dedisselreunie.nl
+baseurl:          /        
 
 
 # Jekyll configuration
