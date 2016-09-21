@@ -14,5 +14,5 @@ Tickets zijn te koop via Eventics. Klik op [deze link](http://www.eventics.nl/ev
 
 Wees er snel bij, want op is op!
 
-[![Groeps foto](/images/event-logo.jpg)](http://www.eventics.nl/event/reunie-de-dissel)
+[![Eventics logo](/images/event-logo.png)](http://www.eventics.nl/event/reunie-de-dissel)
 
