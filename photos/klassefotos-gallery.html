@@ -2,7 +2,7 @@
 layout: default
 ---
 {% assign sorted_gallery = site.klassefotos | sort: 'weight' %}
-<ul class="photo-gallery">
+<ul class="klassefotos">
   {% for image in sorted_gallery %}
     <li>
       <a href="{{ image.link }}">
