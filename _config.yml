@@ -6,6 +6,9 @@ url:              http://dedisselreunie.nl
 baseurl:          /        
 
 
+
+
+
 # Jekyll configuration
 
 permalink:   /:categories/:title/
