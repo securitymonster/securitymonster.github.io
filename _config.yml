@@ -3,6 +3,7 @@
 title:            De Dissel Reünie 2016
 locale:           en_US
 url:              http://dedisselreunie.nl
+baseurl:          / 
      
 
 # Jekyll configuration
@@ -47,7 +48,7 @@ owner:
   email: info@dedisselreunie.nl
   disqus-shortname: dedisselreunienl
   twitter: DeDisselreunie
- facebook: #username
+  facebook: #username
   google:
     plus: #username
     analytics:
