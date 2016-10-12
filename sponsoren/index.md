@@ -70,6 +70,9 @@ ZEVEN jaar geleden toen Kevin (eigenaar) in het Latijns Amerikaanse land Costa R
 
 [![http://www.markantemmen.nl](/images/markant.png)](http://www.markantemmen.nl)
 
+## Slijterij Wijnhuis Gerrit van den Bos
+[Slijterij Wijnhuis Gerrit van den Bos](http://www.slijterijvandenbos.nl). Markant is een grand café in het hartje van centrum Emmen. U kunt bij ons terecht voor de koffie, een heerlijke lunch, een eerlijk diner, de borrel en uiteraard uitgaan. Als het zonnetje schijnt kunt u gebruik maken van ons grote in de zon gelegen terras. Wat betreft onze lunch en diner gerechten hanteren wij het motto: eerlijk, vers en betaalbaar. Goed eten hoeft niet duur te zijn! Op vrijdag en zaterdagavond organiseren wij regelmatig live optredens, shows en andere thema's. 
 
+[![http://www.slijterijvandenbos.nl](/images/vandenbos.png)](http://www.slijterijvandenbos.nl)
 
 
