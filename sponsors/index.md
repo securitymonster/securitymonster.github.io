@@ -12,7 +12,7 @@ image:
 ---
 # Onze Sponsors
 
-Hierbij willen we onze sponsers bedankten, zonder hun zou dit alles niet mogelijk geweest zijn.
+Hierbij willen we onze sponsors bedankten, zonder hun zou dit alles niet mogelijk geweest zijn.
 
 ## Amsterdam Good Cookies, De Stroopwafel Experts
 
