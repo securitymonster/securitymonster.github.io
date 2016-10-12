@@ -9,4 +9,4 @@ image:
   feature: 
 ---
 
-(/images/poster.pdf)
+![Poster](/images/poster.pdf)
