@@ -39,3 +39,14 @@ ZEVEN jaar geleden toen Kevin (eigenaar) in het Latijns Amerikaanse land Costa R
 [Dorgelo Audio Service](http://dorgelo.com). Dorgelo Audio Service is een audiovisueel bedrijf onder leiding van Harry Dorgelo en is al jaren een begrip. Begonnen in Emmen en omstreken, maar tegenwoordig ook ver over de Nederlandse grenzen in Duitsland, Engeland, Frankrijk en België aan het werk. Dorgelo Audio Service wordt niet alleen gevraagd voor het verhuren van materiaal zoals licht en geluidssets, maar ook voor complete evenementenverzorging waarbij alle facetten van licht, geluid en video aan bod komen.
 
 [![Dorgelo Audio Service](/images/dorgelo.png)](http://dorgelo.com)
+
+## New Nexus
+
+[New Nexus](http://www.newnexus.nl). We bedenken, ontwerpen en ontwikkelen slimme IT-oplossingen. We testen ze en begeleiden de implementatie. Vanuit ons kantoor in Tynaarlo zijn we voornamelijk actief voor organisaties in Noord-Nederland.
+
+[[!http://www.newnexus.nl](/images/newnexus.png)](http://www.newnexus.nl)
+
+## Unica
+[Unica](http://www.unica.nl).
+
+[[!http://www.unica.nl](/images/unica.png)](http://www.unica.nl)
