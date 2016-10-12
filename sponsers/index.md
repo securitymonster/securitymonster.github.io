@@ -10,6 +10,7 @@ author_profile: false
 image:
   feature: bedanktsponsers.jpg
 ---
+# Onze Sponsers
 
 Hierbij willen we onze sponsers bedankten, zonder hun zou dit alles niet mogelijk geweest zijn.
 
