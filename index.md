@@ -3,7 +3,7 @@ layout: home
 excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: dedissel-2016.jpg
+  feature: dedissel-2016.png
   credit: SebM
   creditlink: 
 ---
