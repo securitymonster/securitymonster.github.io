@@ -7,6 +7,6 @@ excerpt:
 comments: false
 tags: []
 image:
-  feature:
+  feature: bedanktsponsers.jpg
 ---
 
