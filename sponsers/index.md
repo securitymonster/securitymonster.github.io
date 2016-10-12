@@ -13,8 +13,6 @@ image:
 
 Hierbij willen we onze sponsers bedankten, zonder hun zou dit alles niet mogelijk geweest zijn.
 
-Tickets zijn te koop via Eventics. Klik op [deze link](http://www.eventics.nl/event/reunie-de-dissel) om ze te bestellen!
-
 ## Amsterdam Good Cookies, De Stroopwafel Experts
 
 Hun verhaal is eigenlijk best eenvoudig. Een doodnormale Hollandse jongen, houdt van stroopwafels en wil de authentieke, versgebakken Amsterdam! Good Stroopwafels delen met de rest van de wereld.
