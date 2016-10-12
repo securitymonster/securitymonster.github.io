@@ -5,6 +5,7 @@ date: 2016-03-12T21:53:03+01:00
 modified:
 excerpt:
 tags: []
+author_profile: false
 image:
   feature: hampshire.jpg
   credit: SebM
