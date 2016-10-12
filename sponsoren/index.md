@@ -56,14 +56,19 @@ ZEVEN jaar geleden toen Kevin (eigenaar) in het Latijns Amerikaanse land Costa R
 [![http://www.stalad.nl](/images/stalad.jpg)](http://www.stalad.nl)
 
 ## Esdal College
-[Esdal College](https://www.esdalcollege.nl). Het Esdal College heeft locaties in Emmen, Borger, Klazienaveen en Oosterhesselen en biedt veel mogelijkheden: vmbo-beroepsgericht, mavo, havo, atheneum en gymnasium.
+[Esdal College](http://www.esdalcollege.nl). Het Esdal College heeft locaties in Emmen, Borger, Klazienaveen en Oosterhesselen en biedt veel mogelijkheden: vmbo-beroepsgericht, mavo, havo, atheneum en gymnasium.
 
 [![http://www.esdalcollege.nl](/images/esdal.gif)](http://www.esdalcollege.nl)
 
 ## Rue de la Gare
-[Grand Cafe Rue de la Gare](https://www.ruedelagare.nl). Grand café restaurant Rue de la Gare is uniek in Emmen en naaste omgeving. De Belgische en Bourgondische invloeden in het interieur maken het voor deze regio bijzonder. Ook kunt u bij ons regelmatig genieten van live muziek. Onze keuken staat in de wijde omgeving kwalitatief bekend als uitstekend. Al onze gerechten worden met zorg en aandacht voor kwaliteit bereid. We hebben een schitterend beschut tuinterras,waar u rustig kunt genieten.
+[Grand Cafe Rue de la Gare](http://www.ruedelagare.nl). Grand café restaurant Rue de la Gare is uniek in Emmen en naaste omgeving. De Belgische en Bourgondische invloeden in het interieur maken het voor deze regio bijzonder. Ook kunt u bij ons regelmatig genieten van live muziek. Onze keuken staat in de wijde omgeving kwalitatief bekend als uitstekend. Al onze gerechten worden met zorg en aandacht voor kwaliteit bereid. We hebben een schitterend beschut tuinterras,waar u rustig kunt genieten.
 
 [![http://www.ruedelagare.nl](/images/rue.png)](http://www.ruedelagare.nl)
+
+## Markant
+[Markant Grandcafe en Restaurant](http://www.markantemmen.nl). Markant is een grand café in het hartje van centrum Emmen. U kunt bij ons terecht voor de koffie, een heerlijke lunch, een eerlijk diner, de borrel en uiteraard uitgaan. Als het zonnetje schijnt kunt u gebruik maken van ons grote in de zon gelegen terras. Wat betreft onze lunch en diner gerechten hanteren wij het motto: eerlijk, vers en betaalbaar. Goed eten hoeft niet duur te zijn! Op vrijdag en zaterdagavond organiseren wij regelmatig live optredens, shows en andere thema's. 
+
+[![http://www.markantemmen.nl](/images/markant.png)](http://www.markantemmen.nl)
 
 
 
