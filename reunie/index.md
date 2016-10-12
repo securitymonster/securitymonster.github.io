@@ -6,6 +6,6 @@ modified:
 excerpt:
 tags: []
 image:
-  feature: poster.jpg
+  feature: poster.pdf
 ---
 
