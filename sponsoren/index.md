@@ -10,9 +10,9 @@ author_profile: false
 image:
   feature: bedanktsponsers.jpg
 ---
-# Onze Sponsors
+# Onze Sponsoren
 
-Hierbij willen we onze sponsors bedankten, zonder hun zou dit alles niet mogelijk geweest zijn.
+Hierbij willen we onze sponsoren bedankten, zonder hun zou dit alles niet mogelijk geweest zijn.
 
 ## Amsterdam Good Cookies, De Stroopwafel Experts
 
