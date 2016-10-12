@@ -12,4 +12,4 @@ image:
 
 # Gastenboek
 
-Laat hier je comments achter :)
+Laat hier je comments achter op deze pagina, of bezoek onze <a target="_blank" class="intext" href="https://www.facebook.com/groups/194919854203127">Faceboek groep</a>
