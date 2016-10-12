@@ -53,12 +53,17 @@ ZEVEN jaar geleden toen Kevin (eigenaar) in het Latijns Amerikaanse land Costa R
 ## Stalad Onderwijsinrichting
 [Stalad](https://www.stalad.nl). STALAD onderwijsinrichting heeft passie voor het ontwerpen en realiseren van inrichtingen voor het onderwijs. Inrichtingen die schoonheid met ergonomie combineren, zodat studenten het beste uit zichzelf kunnen halen.
 
-[![https://www.stalad.nl](/images/stalad.jpg)](http://www.stalad.nl)
+[![http://www.stalad.nl](/images/stalad.jpg)](http://www.stalad.nl)
 
 ## Esdal College
-[Esdal College](https://www.esdalcollege.nl). STALAD onderwijsinrichting heeft passie voor het ontwerpen en realiseren van inrichtingen voor het onderwijs. Inrichtingen die schoonheid met ergonomie combineren, zodat studenten het beste uit zichzelf kunnen halen.
+[Esdal College](https://www.esdalcollege.nl). Het Esdal College heeft locaties in Emmen, Borger, Klazienaveen en Oosterhesselen en biedt veel mogelijkheden: vmbo-beroepsgericht, mavo, havo, atheneum en gymnasium.
 
-[![https://www.esdalcollege.nl](/images/esdal.gif)](http://www.esdalcollege.nl)
+[![http://www.esdalcollege.nl](/images/esdal.gif)](http://www.esdalcollege.nl)
+
+## Rue de la Gare
+[Grand Cafe Rue de la Gare](https://www.ruedelagare.nl). Grand café restaurant Rue de la Gare is uniek in Emmen en naaste omgeving. De Belgische en Bourgondische invloeden in het interieur maken het voor deze regio bijzonder. Ook kunt u bij ons regelmatig genieten van live muziek. Onze keuken staat in de wijde omgeving kwalitatief bekend als uitstekend. Al onze gerechten worden met zorg en aandacht voor kwaliteit bereid. We hebben een schitterend beschut tuinterras,waar u rustig kunt genieten.
+
+[![http://www.ruedelagare.nl](/images/rue.png)](http://www.ruedelagare.nl)
 
 
 
