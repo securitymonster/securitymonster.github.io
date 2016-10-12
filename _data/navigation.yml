@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title: Reünie 2016, The Party!
+- title: Programma
   url: /reunie/
 
 - title: Locatie
@@ -18,6 +18,6 @@
 - title: Facebook
   url: https://www.facebook.com/groups/194919854203127
 
-- title: Fotos (op Facebook)
-  url: https://www.facebook.com/groups/194919854203127/photos/?filter=photos
+- title: Fotos
+  url: /fotos/
 
