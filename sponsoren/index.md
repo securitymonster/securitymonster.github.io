@@ -34,4 +34,8 @@ ZEVEN jaar geleden toen Kevin (eigenaar) in het Latijns Amerikaanse land Costa R
 
 [![Jan van Peer Speciaalzaken](/images/janvanpeer.jpg)](http://www.janvanpeer.nl)
 
+## Dorgelo Audio Service
 
+[Dorgelo Audio Service](http://dorgelo.com). Dorgelo Audio Service is een audiovisueel bedrijf onder leiding van Harry Dorgelo en is al jaren een begrip. Begonnen in Emmen en omstreken, maar tegenwoordig ook ver over de Nederlandse grenzen in Duitsland, Engeland, Frankrijk en België aan het werk. Dorgelo Audio Service wordt niet alleen gevraagd voor het verhuren van materiaal zoals licht en geluidssets, maar ook voor complete evenementenverzorging waarbij alle facetten van licht, geluid en video aan bod komen.
+
+[![Dorgelo Audio Service](/images/dorgelo.png)](http://dorgelo.com)
