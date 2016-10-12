@@ -56,5 +56,10 @@ ZEVEN jaar geleden toen Kevin (eigenaar) in het Latijns Amerikaanse land Costa R
 
 [![https://www.vandijk.nl](/images/vandijk.png)](http://www.vandijk.nl)
 
+## Stalad Onderwijsinrichting
+[Stalad](https://www.stalad.nl). STALAD onderwijsinrichting heeft passie voor het ontwerpen en realiseren van inrichtingen voor het onderwijs. Inrichtingen die schoonheid met ergonomie combineren, zodat studenten het beste uit zichzelf kunnen halen.
+
+[![https://www.stalad.nl](/images/stalad.jpg)](http://www.stalad.nl)
+
 
 
