@@ -51,4 +51,10 @@ ZEVEN jaar geleden toen Kevin (eigenaar) in het Latijns Amerikaanse land Costa R
 
 [![http://www.unica.nl](/images/unica.png)](http://www.unica.nl)
 
+## Van Dijk
+[Van Dijk](https://www.vandijk.nl). Alles voor je studie.
+
+[![https://www.vandijk.nl](/images/vandijk.png)](http://www.vandijk.nl)
+
+
 
