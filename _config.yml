@@ -1,11 +1,10 @@
 # Site wide configuration
 
 title:            De Dissel Reünie 2016
-locale:           en_US
+locale:           nl_NL
 url:              http://dedisselreunie.nl
-baseurl:          http://dedisselreunie.nl
-     
-
+baseurl:          /
+   
 # Jekyll configuration
 
 permalink:   /:categories/:title/
