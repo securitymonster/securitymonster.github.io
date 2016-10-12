@@ -6,6 +6,7 @@ modified:
 excerpt:
 tags: []
 image:
-  feature: poster.pdf
+  feature: 
 ---
 
+(/images/poster.pdf)
