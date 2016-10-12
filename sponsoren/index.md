@@ -47,6 +47,8 @@ ZEVEN jaar geleden toen Kevin (eigenaar) in het Latijns Amerikaanse land Costa R
 [[!http://www.newnexus.nl](/images/newnexus.png)](http://www.newnexus.nl)
 
 ## Unica
-[Unica](http://www.unica.nl).
+[Unica](http://www.unica.nl). Wat hebben vraagstukken op het gebied van energie, kantoorbezetting, de verduurzaming van gebouwen, ICT en gezonde leef- en werkomgevingen met elkaar gemeen? Ze kunnen allemaal worden opgelost met behulp van techniek. Unica is dé allround technisch dienstverlener van Nederland. Wij hebben een passend antwoord op al uw vragen. En met veertien vestigingen is Unica altijd dichtbij.
 
 [[!http://www.unica.nl](/images/unica.png)](http://www.unica.nl)
+
+
