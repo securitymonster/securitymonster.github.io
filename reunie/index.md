@@ -9,4 +9,4 @@ image:
   feature: 
 ---
 
-![Poster](/images/poster.pdf)
+![Poster](/images/posterdedissel.png)
