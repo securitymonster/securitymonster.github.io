@@ -14,7 +14,12 @@ image:
 Hierbij willen we onze sponsoren bedankten, zonder hun zou dit alles niet mogelijk geweest zijn.
 
 ## Amsterdam Good Cookies, De Stroopwafel Experts
-[Amsterdam Good Cookies](http://amsterdamgoodcookies.com/nl). Hun verhaal is eigenlijk best eenvoudig. Een doodnormale Hollandse jongen, houdt van stroopwafels en wil de authentieke, versgebakken Amsterdam! Good Stroopwafels delen met de rest van de wereld.
+[MET Creatie + Communicatie](http://metcc.nl). MET creatie + communicatie is een creatief communicatiebureau uit Emmen. We helpen onze klanten met het maximaal bereiken van hun doelgroep. Op een opvallende en creatieve manier, die precies past bij u als klant. Goed onderbouwd en altijd met een rode draad. We maken graag een kapstok met u om samen uw uitgangspunten te bepalen. 
+
+[![Amsterdam Good Cookies](/images/amsterdamgood.png)](http://amsterdamgoodcookies.com/nl)
+
+## Amsterdam Good Cookies, De Stroopwafel Experts
+[Amsterdam Good Cookies](http://amsterdamgoodcookies.com/nl). Het verhaal is eigenlijk best eenvoudig. Een doodnormale Hollandse jongen, houdt van stroopwafels en wil de authentieke, versgebakken Amsterdam! Good Stroopwafels delen met de rest van de wereld.
 ZEVEN jaar geleden toen Kevin (eigenaar) in het Latijns Amerikaanse land Costa Rica woonde, gaf hij de STROOPWAFEL al regelmatig weg als relatiegeschenk aan Costaricanen en Amerikanen. Toen dit enorm enthousiast werd ontvangen en er vaak werd gevraagd waar ze meer van deze heerlijke koeken konden krijgen kwam het idee om een eigen stroopwafel merk te beginnen. Dit was het begin van Amsterdam! Good Cookies.
 
 [![Amsterdam Good Cookies](/images/amsterdamgood.png)](http://amsterdamgoodcookies.com/nl)
