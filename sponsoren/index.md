@@ -13,6 +13,11 @@ image:
 # Onze Sponsoren
 Hierbij willen we onze sponsoren bedankten, zonder hun zou dit alles niet mogelijk geweest zijn.
 
+## Amsterdam Good Cookies, De Stroopwafel Experts
+[Amsterdam Good Cookies](http://amsterdamgoodcookies.com/nl). Het verhaal is eigenlijk best eenvoudig. Een doodnormale Hollandse jongen, houdt van stroopwafels en wil de authentieke, versgebakken Amsterdam! Good Stroopwafels delen met de rest van de wereld.
+ZEVEN jaar geleden toen Kevin (eigenaar) in het Latijns Amerikaanse land Costa Rica woonde, gaf hij de STROOPWAFEL al regelmatig weg als relatiegeschenk aan Costaricanen en Amerikanen. Toen dit enorm enthousiast werd ontvangen en er vaak werd gevraagd waar ze meer van deze heerlijke koeken konden krijgen kwam het idee om een eigen stroopwafel merk te beginnen. Dit was het begin van Amsterdam! Good Cookies.
+
+
 ## MET Creatie + Communicatie
 [MET Creatie + Communicatie](http://metcc.nl). MET creatie + communicatie is een creatief communicatiebureau uit Emmen. We helpen onze klanten met het maximaal bereiken van hun doelgroep. Op een opvallende en creatieve manier, die precies past bij u als klant. Goed onderbouwd en altijd met een rode draad. We maken graag een kapstok met u om samen uw uitgangspunten te bepalen. 
 
@@ -24,6 +29,11 @@ ZEVEN jaar geleden toen Kevin (eigenaar) in het Latijns Amerikaanse land Costa R
 
 [![Amsterdam Good Cookies](/images/amsterdamgood.png)](http://amsterdamgoodcookies.com/nl)
 
+
+## Elizabeth Young
+[Elizabeth Young](http://www.elizabethyoung.nl). Elizabeth Young is een Dames kledingzaak. Hier vind u Vintage reproductie’s. 
+
+[![Elizabeth Young](/images/ey.png)](http://www.elizabethyoung.nl)
 
 ## Hotel ten Cate Emmen
 [Hotel ten Cate](http://hoteltencate.nl). Drentse gastvrijheid en kunstzinnige ambiance kenmerken Hotel en restaurant ten Cate. Op een prachtige locatie in hartje Emmen, ligt op zichtafstand van het WILDLANDS Adventure Zoo Emmen het meest kleurrijke hotel van Nederland. In dit unieke hotel vindt u kwaliteit, rust en gezelligheid. Een verrassend gastvrije beleving! 
