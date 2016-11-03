@@ -6,7 +6,7 @@ modified:
 excerpt:
 tags: []
 image:
-  feature: 
+  feature: party.jpg
 ---
 
 # Het programma
