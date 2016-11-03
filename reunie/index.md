@@ -11,6 +11,10 @@ image:
 
 # Het programma
 
+Wat kan je van deze avond verwachten? Behalve een weerzien met oude vrienden, oude (en nieuwe?) liefdes zijn de leraren van toen ook aanwezig! Er is natuurlijk volop gelegenheid om bij te praten. Hou zou het al die jaren met je oude klasgenoten zijn? En zou die ontzettend leuke docent nog steeds zo aardig zijn?
+
+De reünie zal omlijst zijn door muziek; de gehele avond zal de muziek verzord worden de D.J.'s, bekend van de Groothuis shows. Vergeet niet je dansschoenen uit het vet te halen :)
+
 Het programma ziet er als volgt uit:
 <ul>
 <li>20:00 uur - De zaal gaat open</li>
@@ -18,4 +22,6 @@ Het programma ziet er als volgt uit:
 <li>23:00 uur - Oud-Disselaar zingt</li>
 <li>01:00 uur - Tijd om nieuwe herinneringen mee naar huis te nemen (of een deurtje verder)</li>
 </ul>
+
+
 
