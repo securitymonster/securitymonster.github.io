@@ -11,6 +11,7 @@ image:
 
 Er is een grote verzameling foto's beschikbaar.
 
+Op [Dropbox](https://www.dropbox.com/sh/juze87nxadm5tz0/AADdUi9RL0WggSSoulHjSecqa?dl=0&lst=)
 
 Op [Flickr](https://www.flickr.com/photos/147152055@N04/collections/72157672825120211)
 
