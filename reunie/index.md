@@ -13,7 +13,7 @@ image:
 
 Wat kan je van deze avond verwachten? Behalve een weerzien met oude vrienden, oude (en nieuwe?) liefdes zijn de leraren van toen ook aanwezig! Er is natuurlijk volop gelegenheid om bij te praten. Hou zou het al die jaren met je oude klasgenoten zijn? En zou die ontzettend leuke docent nog steeds zo aardig zijn?
 
-De reünie zal omlijst zijn door muziek; de gehele avond zal de muziek verzord worden de D.J.'s, bekend van de Groothuis shows. Vergeet niet je dansschoenen uit het vet te halen :)
+De reünie zal omlijst zijn door muziek; de gehele avond zal de muziek verzorgd worden de D.J.'s bekend van de Groothuis shows. Vergeet niet je dansschoenen uit het vet te halen :)
 
 Het programma ziet er als volgt uit:
 <ul>
