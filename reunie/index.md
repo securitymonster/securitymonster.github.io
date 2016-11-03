@@ -9,4 +9,4 @@ image:
   feature: 
 ---
 
-![Poster](/images/posterdedissel.png)
+![Poster](/images/programma.jpg)
