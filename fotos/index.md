@@ -11,7 +11,9 @@ image:
 
 Er is een grote verzameling foto's beschikbaar.
 
-Foto's van het reunie feest kun je hier vinden: [Dropbox](https://www.dropbox.com/sh/t4w7fo23iixkbks/AABSDVd-_Bv5HIX3QC1Xhadqa?dl=0)
+Foto's van het reunie feest kun je hier vinden: 
+
+<a href="https://www.dropbox.com/sh/t4w7fo23iixkbks/AABSDVd-_Bv5HIX3QC1Xhadqa?dl=0" target="_blank">Dropbox</a>
 
 Klassefoto's, foto's van trips, feestjes en dergelijke. Kortom "a trip down memory lane":
 
